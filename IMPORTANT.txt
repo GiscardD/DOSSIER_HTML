@@ -1,0 +1,9 @@
+COMMENT OUVRIR LES FICHIERS 
+
+1- TELECHARGER LE FICHIER ZIP de la branche principale 
+
+2- Extraire dans un dossier 
+
+3- Ouvrir le fichier index 
+
+4- Naviguer entre les menus (M1 M2 M3 ...)
